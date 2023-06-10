@@ -1,0 +1,2 @@
+#!/bin/bash 
+cchmod u+x helllo
